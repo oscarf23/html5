@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{margin: 0;
+padding: 0;}
+
+body{background:#5F5F5F}
+
+nav{ background-color: coral;
+	 padding: 15px;
+	text-align: center}
+
+article{ padding: 15px;
+	     border: #000000;
+	     margin: 25px;
+	     border-radius: 80px;
+	     background-color: cornflowerblue;}
+
+h1{background-color:limegreen;
+	 padding: 15px;
+	text-align: center}
+
+
+figure{padding: 15px;
+       width: 20px;
+
+}	
+	
+
+
